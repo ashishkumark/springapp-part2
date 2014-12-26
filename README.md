@@ -1,6 +1,6 @@
 springapp-part2
 ===============
 
-Followed Spring MVC example
+Followed Spring MVC example from
 http://docs.spring.io/docs/Spring-MVC-step-by-step/
 
